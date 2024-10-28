@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://vite.dev/"><img src="https://vitejs.dev/logo.svg" alt="Vite logo" width="200"></a>
+  <a href="https://vite.dev/"><img src="https://vite.dev/logo.svg" alt="Vite logo" width="200"></a>
   
   # Vite
   
@@ -9,5 +9,5 @@
   [Getting Started](https://vite.dev/guide/#getting-started) •
   [Why Vite?](https://vite.dev/guide/why)
   
-  ### [_Get involved!_](https://chat.vitejs.dev)
+  ### [_Get involved!_](https://chat.vite.dev)
 </div>
