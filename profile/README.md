@@ -1,18 +1,13 @@
-<p align="center">
-<img src="https://vitejs.dev/logo.svg" height="200">
-</p>
-
-<h1 align="center">
-Vite
-</h1>
-<p align="center">
-Next generation frontend tooling. It's fast!
-<p>
 <div align="center">
-  <a href="https://vitejs.dev/">Documentation</a> —
-  <a href="https://vitejs.dev/guide">Getting Started</a> —
-  <a href="https://vitejs.dev/guide/why">Why Vite?</a>
+  <a href="https://vite.dev/"><img src="https://vite.dev/logo.svg" alt="Vite logo" width="200"></a>
+  
+  # Vite
+  
+  Next generation frontend tooling. It's fast!
+  
+  [Homepage](https://vite.dev/) •
+  [Getting Started](https://vite.dev/guide/#getting-started) •
+  [Why Vite?](https://vite.dev/guide/why)
+  
+  ### [_Get involved!_](https://chat.vite.dev)
 </div>
-<h3 align="center">
-<a href="https://chat.vitejs.dev"><i>Get involved!</i></a>
-</h3>
