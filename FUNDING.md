@@ -2,7 +2,7 @@
 
 ## Raising Funds
 
-Vite is an MIT-licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for Vite is not sustainable without proper financial backing. We need your help to achieve this.
+Vite is an MIT-licensed open source project and completely free to use. However, the amount of effort needed to maintain and develop new features for Vite and its ecosystem is not sustainable without proper financial backing. We need your help to achieve this.
 
 Learn more about sponsorship on our [Open Collective](https://opencollective.com/vite).
 
