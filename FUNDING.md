@@ -18,23 +18,21 @@ _List borrowed from [ESLint: "Funding ESLint's Future."](https://eslint.org/blog
 
 ## Distributing Funds
 
-100% of money raised is invested back into the community. Every dollar spent **must** support and/or improve Vite in some way. For example:
+100% of money raised is invested back into the Vite ecosystem and dependencies. For example:
 
 - **Improve codebase.**
 - **Improve documentation.**
 - **Improve translations.**
 - **Improve website.**
-- **User research.**
-- **Supporting contributors.**
-- **Sponsoring conferences.**
-- **Sponsoring community members to represent Vite at meetups, conferences, etc.**
-- **Dedicated support for GitHub, Discord, Stack Overflow, etc.**
+- **Support upstream dependencies.**
+- **Support important ecosystem plugins.**
+- And more that will benefit Vite in some way.
 
 See all past expenses on our [Open Collective](https://opencollective.com/vite/expenses).
 
 ### Core Maintainer Stipend
 
-A stipend of up to $3000 USD per calendar month is available to all core maintainers. Any time spent improving or supporting the project in some way counts towards this stipend: writing code, writing documentation, triaging issues, offering support in our Discord server, attending meetings (and meetups) on behalf of Vite, contributing to our upstream dependencies, and so on, unless you are already being paid for this work under another contract or agreement. For example, if you are paid by your employer or otherwise contracted to contribute to Vite, you should not also claim a stipend for those hours. 
+A stipend of up to $3000 USD per calendar month is available to all core maintainers. Any time spent improving or supporting the project in some way counts towards this stipend: writing code, writing documentation, triaging issues, offering support in our Discord server, attending meetings (and meetups) on behalf of Vite, contributing to our upstream dependencies, and so on, unless you are already being paid for this work under another contract or agreement. For example, if you are paid by your employer or otherwise contracted to contribute to Vite, you should not also claim a stipend for those hours.
 
 Right now, the stipend is calculated per hour at $50 USD per hour contributed, with a maximum of $3000 USD each month. These numbers may shift as our funding and team size change over time.
 
