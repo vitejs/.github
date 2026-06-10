@@ -30,9 +30,9 @@ _List borrowed from [ESLint: "Funding ESLint's Future."](https://eslint.org/blog
 
 See all past expenses on our [Open Collective](https://opencollective.com/vite/expenses).
 
-### Core Maintainer Stipend
+### Core Team Member Stipend
 
-A stipend of up to $3000 USD per calendar month is available to all core maintainers. Any time spent improving or supporting the project in some way counts towards this stipend: writing code, writing documentation, triaging issues, offering support in our Discord server, attending meetings (and meetups) on behalf of Vite, contributing to our upstream dependencies, and so on, unless you are already being paid for this work under another contract or agreement. For example, if you are paid by your employer or otherwise contracted to contribute to Vite, you should not also claim a stipend for those hours.
+A stipend of up to $3000 USD per calendar month is available to all core team members. Any time spent improving or supporting the project in some way counts towards this stipend: writing code, writing documentation, triaging issues, offering support in our Discord server, attending meetings (and meetups) on behalf of Vite, contributing to our upstream dependencies, and so on, unless you are already being paid for this work under another contract or agreement. For example, if you are paid by your employer or otherwise contracted to contribute to Vite, you should not also claim a stipend for those hours.
 
 Right now, the stipend is calculated per hour at $50 USD per hour contributed, with a maximum of $3000 USD each month. These numbers may shift as our funding and team size change over time.
 
