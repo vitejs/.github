@@ -1,0 +1,11 @@
+{
+  "name": "scripts",
+  "type": "module",
+  "private": true,
+  "packageManager": "pnpm@11.5.2",
+  "devDependencies": {
+    "@actions/github-script": "github:actions/github-script",
+    "@octokit/plugin-rest-endpoint-methods": "^17.0.0",
+    "@octokit/request-error": "^7.1.0"
+  }
+}
