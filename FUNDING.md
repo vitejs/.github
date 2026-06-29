@@ -36,7 +36,7 @@ A stipend of up to $3000 USD per calendar month is available to all core team me
 
 Right now, the stipend is calculated per hour at $50 USD per hour contributed, with a maximum of $3000 USD each month. These numbers may shift as our funding and team size change over time.
 
-To claim, file an expense on our [Open Collective](https://opencollective.com/vite) with a link to this section as _Additional Information_: https://github.com/vitejs/.github/blob/main/FUNDING.md#core-maintainer-stipend. The number of hours do not need to be described as we trust maintainers to report the amount in good faith.
+To claim, file an expense on our [Open Collective](https://opencollective.com/vite) with a link to this section as _Additional Information_: https://github.com/vitejs/.github/blob/main/FUNDING.md#core-team-member-stipend. The number of hours do not need to be described as we trust maintainers to report the amount in good faith.
 
 ## Attribution
 
