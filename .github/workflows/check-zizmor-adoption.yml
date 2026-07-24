@@ -1,0 +1,33 @@
+name: Check zizmor adoption
+
+on:
+  schedule:
+    # Weekly, Mondays at 07:00 UTC
+    - cron: '0 7 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: read # for actions/checkout
+  security-events: write # for upload-sarif
+
+jobs:
+  check-zizmor-adoption:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@df4cb1c069e1874edd31b4311f1884172cec0e10 # v6.0.3
+        with:
+          persist-credentials: false
+
+      - name: Find public repositories without zizmorcore/zizmor-action
+        uses: actions/github-script@3a2844b7e9c422d3c10d287c895573f7108da1b3 # v9.0.0
+        with:
+          script: |
+            const check = require('./.github/workflows/scripts/check-zizmor-adoption.js')
+            await check({ github, context, core })
+
+      - name: Upload SARIF report
+        uses: github/codeql-action/upload-sarif@8aad20d150bbac5944a9f9d289da16a4b0d87c1e # v4.36.2
+        with:
+          sarif_file: zizmor-adoption.sarif
+          category: zizmor-adoption
